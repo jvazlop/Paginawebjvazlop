@@ -39,9 +39,3 @@ Este es un [enlace](OTRO.md).
 Este es un ejemplo de código en línea: `console.log("Hola, mundo!");`
 
 
-
-
-
-*[Enlace a la otra pagina](OTRO.md)
-
-![Descripcion de la imagen](assets/descarga.jpeg)
