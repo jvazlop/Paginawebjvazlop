@@ -2,13 +2,13 @@
 
 
 # Encabezado 1
-Este es un texto bajo un **encabezado de nivel 1**. 
+Este es un texto con un **encabezado de nivel 1**. 
 
 ## Encabezado 2
-Este es un texto bajo un **encabezado de nivel 2**.
+Este es un texto con un **encabezado de nivel 2**.
 
 ### Encabezado 3
-Este es un texto bajo un _encabezado de nivel 3_, y puedes mezclar **negrita** e _itálicas_.
+Este es un texto con un _encabezado de nivel 3_, y puedes mezclar **negrita** e _itálicas_. Para poder aplicarlos a cualquier texto
 
 ---
 
@@ -17,25 +17,26 @@ Este es un texto bajo un _encabezado de nivel 3_, y puedes mezclar **negrita** e
 - Elemento 1
 - Elemento 2
 - Elemento 3
-
+- Etc
+  
 **Lista ordenada**:
-1. Primer elemento
-2. Segundo elemento
-3. Tercer elemento
+1. Primero
+2. Segundo
+3. Tercer
 
 ---
 
 ### Enlaces
-Este es un [enlace](OTRO.md).
-
+Esto es un [enlace](OTRO.md).
+a otra pagina
 ---
 
 ### Imágenes
-![Texto alternativo de la imagen](assets/descarga.jpeg)
+![imagen](assets/descarga.jpeg)
 
 ---
 
 ### Código en línea
-Este es un ejemplo de código en línea: `console.log("Hola, mundo!");`
+Esto no se si lo usare pero lo pongo igual `console.log("Hola, mundo!");`
 
 
