@@ -1,28 +1,22 @@
 # Pagina de Jvazlop
 
 
-# Encabezado 1
-Este es un texto con un **encabezado de nivel 1**. 
+# La selva 
+Lugar de alta humedad en la que viven tanto mamiferos como reptiles
 
-## Encabezado 2
-Este es un texto con un **encabezado de nivel 2**.
+## La selva mas conocida
+Hubicada en _America_ tambien conocida como el **Amazonas**
 
-### Encabezado 3
-Este es un texto con un _encabezado de nivel 3_, y puedes mezclar **negrita** e _itálicas_. Para poder aplicarlos a cualquier texto
-
----
-
-### Listas
-**Lista no ordenada**:
-- Elemento 1
-- Elemento 2
-- Elemento 3
-- Etc
+### Animales
+- Tigre
+- Tucan
+- Mono
+- Leopardo
   
-**Lista ordenada**:
-1. Primero
-2. Segundo
-3. Tercer
+**Selvas famosas**:
+1. Amazonas
+2. El Congo
+3. Wallacea
 
 ---
 
@@ -35,8 +29,5 @@ a otra pagina
 ![imagen](assets/descarga.jpeg)
 
 ---
-
-### Código en línea
-Esto no se si lo usare pero lo pongo igual `console.log("Hola, mundo!");`
 
 
