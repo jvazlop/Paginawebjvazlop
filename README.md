@@ -5,7 +5,7 @@
 Lugar de alta humedad en la que viven tanto mamiferos como reptiles
 
 ## La selva mas conocida
-Hubicada en _America_ tambien conocida como el **Amazonas**
+Ubicada en _America_ tambien conocida como el **Amazonas**
 
 ### Animales
 - Tigre
